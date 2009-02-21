@@ -1,0 +1,27 @@
+Thu, 19 Feb 2009 17:20:51 GMT  ~  info  ~  Logfile created
+ ~ Found slice 'merb_approvals' in search path at lib/merb_approvals.rb
+ ~ Loaded slice 'MerbApprovals' ...
+ ~ Activating slice 'MerbApprovals' ...
+ ~ Started request handling: Thu Feb 19 09:20:52 -0800 2009
+ ~ Params: {"action"=>"index", "controller"=>"merb_approvals/main"}
+ ~ {:before_filters_time=>3.5e-05, :action_time=>0.080975, :after_filters_time=>6.4e-05, :dispatch_time=>0.081716}
+ ~ 
+
+ ~ Started request handling: Thu Feb 19 09:20:53 -0800 2009
+ ~ Params: {"action"=>"index", "controller"=>"merb_approvals/main"}
+ ~ {:before_filters_time=>1.9e-05, :action_time=>0.007993, :after_filters_time=>2.9e-05, :dispatch_time=>0.008635}
+ ~ 
+
+ ~ Found slice 'merb_approvals' in search path at lib/merb_approvals.rb
+ ~ Loaded slice 'MerbApprovals' ...
+ ~ Activating slice 'MerbApprovals' ...
+ ~ Started request handling: Thu Feb 19 09:38:02 -0800 2009
+ ~ Params: {"action"=>"index", "controller"=>"merb_approvals/main"}
+ ~ {:after_filters_time=>3.9e-05, :action_time=>0.007724, :dispatch_time=>0.008839, :before_filters_time=>2.6e-05}
+ ~ 
+
+ ~ Started request handling: Thu Feb 19 09:38:02 -0800 2009
+ ~ Params: {"action"=>"index", "controller"=>"merb_approvals/main"}
+ ~ {:after_filters_time=>0.000246, :action_time=>0.011076, :dispatch_time=>0.012129, :before_filters_time=>2.6e-05}
+ ~ 
+
